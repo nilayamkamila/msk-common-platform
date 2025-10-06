@@ -1,0 +1,1 @@
+# msk-common-platform
